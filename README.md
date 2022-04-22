@@ -10,6 +10,7 @@ Design Pattern: Page Object Model.
 Project Type: Maven Project.
 
 Project Structure:
+
 ![image](https://user-images.githubusercontent.com/39564240/164712165-e7e11e42-0fe7-4ffc-9dea-dde9394f45d3.png)
 
 
