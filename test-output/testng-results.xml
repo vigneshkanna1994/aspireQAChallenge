@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-22T17:13:05 IST" name="Suite" finished-at="2022-04-22T17:14:00 IST" duration-ms="55373">
+    <groups>
+    </groups>
+    <test started-at="2022-04-22T17:13:05 IST" name="Test" finished-at="2022-04-22T17:14:00 IST" duration-ms="55373">
+      <class name="aspire.pom.tests.QA_Development_Challenge_Test">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:aspire.pom.tests.QA_Development_Challenge_Test@53fdffa1]" started-at="2022-04-22T17:13:05 IST" name="launchBrowser" finished-at="2022-04-22T17:13:09 IST" duration-ms="3913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="navigateToAspireApp()[pri:0, instance:aspire.pom.tests.QA_Development_Challenge_Test@53fdffa1]" started-at="2022-04-22T17:13:09 IST" name="navigateToAspireApp" finished-at="2022-04-22T17:13:11 IST" duration-ms="2175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToAspireApp -->
+        <test-method signature="login_To_The_Application()[pri:1, instance:aspire.pom.tests.QA_Development_Challenge_Test@53fdffa1]" started-at="2022-04-22T17:13:11 IST" name="login_To_The_Application" finished-at="2022-04-22T17:13:16 IST" duration-ms="4779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_To_The_Application -->
+        <test-method signature="navigat_To_Inventory()[pri:2, instance:aspire.pom.tests.QA_Development_Challenge_Test@53fdffa1]" started-at="2022-04-22T17:13:16 IST" name="navigat_To_Inventory" finished-at="2022-04-22T17:13:17 IST" duration-ms="1059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigat_To_Inventory -->
+        <test-method signature="create_New_Inventory_Product()[pri:3, instance:aspire.pom.tests.QA_Development_Challenge_Test@53fdffa1]" started-at="2022-04-22T17:13:17 IST" name="create_New_Inventory_Product" finished-at="2022-04-22T17:13:22 IST" duration-ms="5518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_New_Inventory_Product -->
+        <test-method signature="inventory_Product_Update_Quantity()[pri:4, instance:aspire.pom.tests.QA_Development_Challenge_Test@53fdffa1]" started-at="2022-04-22T17:13:22 IST" name="inventory_Product_Update_Quantity" finished-at="2022-04-22T17:13:34 IST" duration-ms="12040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inventory_Product_Update_Quantity -->
+        <test-method signature="navigate_To_Home_Page()[pri:5, instance:aspire.pom.tests.QA_Development_Challenge_Test@53fdffa1]" started-at="2022-04-22T17:13:34 IST" name="navigate_To_Home_Page" finished-at="2022-04-22T17:13:34 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_To_Home_Page -->
+        <test-method signature="create_new_manufacturing_item_with_done_status()[pri:6, instance:aspire.pom.tests.QA_Development_Challenge_Test@53fdffa1]" started-at="2022-04-22T17:13:34 IST" name="create_new_manufacturing_item_with_done_status" finished-at="2022-04-22T17:13:49 IST" duration-ms="14968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_new_manufacturing_item_with_done_status -->
+        <test-method signature="validate_manufacturing_order()[pri:7, instance:aspire.pom.tests.QA_Development_Challenge_Test@53fdffa1]" started-at="2022-04-22T17:13:49 IST" name="validate_manufacturing_order" finished-at="2022-04-22T17:13:59 IST" duration-ms="9691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_manufacturing_order -->
+        <test-method is-config="true" signature="closeTheBrowser()[pri:0, instance:aspire.pom.tests.QA_Development_Challenge_Test@53fdffa1]" started-at="2022-04-22T17:13:59 IST" name="closeTheBrowser" finished-at="2022-04-22T17:14:00 IST" duration-ms="929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- aspire.pom.tests.QA_Development_Challenge_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
