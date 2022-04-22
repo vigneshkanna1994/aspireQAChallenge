@@ -13,7 +13,7 @@ Project Structure:
 ![image](https://user-images.githubusercontent.com/39564240/164712165-e7e11e42-0fe7-4ffc-9dea-dde9394f45d3.png)
 
 
-Steps to execute successfull project:
+Steps to execute test script:
 
 1.  Please import the project git project in Eclipse
 2.  Go to "Test Runner" folder
